@@ -1,8 +1,9 @@
 <img src="https://github.com/Siddhant1803/Siddhant1803/assets/127285389/17120915-6e73-4313-8a0d-21fbcd2557e7" alt="Cover pic GitHub" style="width: 1500px; height: 400px;">
 
 <p align="center">
-  <b style="font-size: 32px;">👋 Hi, I'm Siddhant Sonawane</b>
+  <b style="font-size: 30px;">👋 Hi, I'm Siddhant Sonawane</b>
 </p>
+
 
 ####  👀 I’m interested in Statistics, mainly in Operation Research, Analyzing, Vizualizing data and in making optimize dicisions
 
