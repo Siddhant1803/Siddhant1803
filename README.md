@@ -6,7 +6,7 @@
 
 
 
-####  👀 I’m interested in Statistics, mainly in Operation Research, Analyzing, Vizualizing data and in making optimize dicisions
+####  👀 I’m interested in Statistics, mainly in Operation Research, Analyzing, Vizualizing data and in making optimize decisions
 
 #####  🔭 I have worked as an Intern at [AiVariant](https://aivariant.com/)
 
