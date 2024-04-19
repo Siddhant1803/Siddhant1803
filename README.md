@@ -1,4 +1,4 @@
-![Cover pic GIthub](https://github.com/Siddhant1803/Siddhant1803/assets/127285389/17120915-6e73-4313-8a0d-21fbcd2557e7)=200*200
+<img src="https://github.com/Siddhant1803/Siddhant1803/assets/127285389/17120915-6e73-4313-8a0d-21fbcd2557e7" alt="Cover pic GitHub" style="width: 400px; height: 300px;">
 
 ##                                                                                                👋 Hi, I’m Siddhant Sonawane
 
