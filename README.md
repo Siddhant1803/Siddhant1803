@@ -1,8 +1,8 @@
-<img src="https://github.com/Siddhant1803/Siddhant1803/assets/127285389/17120915-6e73-4313-8a0d-21fbcd2557e7" alt="Cover pic GitHub" style="width: 1300px; height: 500px;">
+<img src="https://github.com/Siddhant1803/Siddhant1803/assets/127285389/17120915-6e73-4313-8a0d-21fbcd2557e7" alt="Cover pic GitHub" style="width: 1400px; height: 500px;">
 
-## <div style="text-align:center;">
-##    <h1>Hi, I'm Siddhant Sonawane</h1>
-## </div>
+## <<div style="text-align:center;">
+    <h1>Hi, I'm Siddhant Sonawane</h1>
+</div>
 
 ####  👀 I’m interested in Statistics, mainly in Operation Research, Analyzing, Vizualizing data and in making optimize dicisions
 
