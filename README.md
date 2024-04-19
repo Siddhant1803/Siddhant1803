@@ -4,7 +4,7 @@
     <h1>👋 Hi, I'm Siddhant Sonawane</h1>
 </div>
 
-
+#### 🌱 I love learning as a process and mostly about new things...
 
 ####  👀 I’m interested in Statistics, mainly in Operation Research, Analyzing, Vizualizing data and in making optimize decisions
 
