@@ -1,10 +1,10 @@
-<img src="https://github.com/Siddhant1803/Siddhant1803/assets/127285389/17120915-6e73-4313-8a0d-21fbcd2557e7" alt="Cover pic GitHub" style="width: 400px; height: 300px;">
+<img src="https://github.com/Siddhant1803/Siddhant1803/assets/127285389/17120915-6e73-4313-8a0d-21fbcd2557e7" alt="Cover pic GitHub" style="width: 1300px; height: 300px;">
 
-##                                                                                                👋 Hi, I’m Siddhant Sonawane
+## ______________________________________________________________👋 Hi, I’m Siddhant Sonawane_________________________________________________________________________
 
 ##### - 👀 I’m interested in Statistics, mainly in Operation Research, Analyzing, Vizualizing data and in making optimize dicisions
 
-##### - 🔭 I have worked as an Intern at Aivariant
+##### - 🔭 I have worked as an Intern at [Aivariant](https://aivariant.com/)
 
 ##### - 🌱 I’m currently learning Machine learning, Deep learning 
 
