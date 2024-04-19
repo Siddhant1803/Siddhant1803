@@ -1,5 +1,4 @@
-<img src="![Cover pic GIthub](https://github.com/Siddhant1803/Siddhant1803/assets/127285389/17120915-6e73-4313-8a0d-21fbcd2557e7)" alt="Alt text" style="width: 200px; height: 200px;">
-
+![Cover pic GIthub](https://github.com/Siddhant1803/Siddhant1803/assets/127285389/17120915-6e73-4313-8a0d-21fbcd2557e7)=200*200
 
 ##                                                                                                👋 Hi, I’m Siddhant Sonawane
 
