@@ -1,8 +1,8 @@
 <img src="https://github.com/Siddhant1803/Siddhant1803/assets/127285389/17120915-6e73-4313-8a0d-21fbcd2557e7" alt="Cover pic GitHub" style="width: 1500px; height: 500px;">
 
-<p align="center">
-  <span style="font-size: 24px;">Hi, I'm Siddhant Sonawane &#x1F44B;</span>
-</p>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <h1>👋 Hi, I'm Siddhant Sonawane</h1>
+</div>
 
 
 
